@@ -7,7 +7,7 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
 2. Add a new printer. 
 
 
-<img src="images/1.png" width="200">
+<img src="images/1.png" width="512">
 
 
 3. You might need to add the **Advanced** option if you do not see it. To do so:  
@@ -15,13 +15,13 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
     2. Click customised toolbar 
         
         
-    <img src="images/2.png" width="200">
+    <img src="images/2.png" width="512">
     
     
     4. Drag the **Advanced** option into the toolbar  
     
     
-    <img src="images/3.png" width="200">
+    <img src="images/3.png" width="512">
     
     
 4. Next, click **Advanced** and follow the options for `Type` and `Use` 
