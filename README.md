@@ -14,20 +14,21 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
     1. Right click the top toolbar 
     2. Click customised toolbar 
         
-        
+    <p align="center">
     <img src="images/2.png" width="512">
-    
+    <p/>
     
     4. Drag the **Advanced** option into the toolbar  
     
-    
+    <p align="center">
     <img src="images/3.png" width="512">
-    
+    <p/>
     
 4. Next, click **Advanced** and follow the options for `Type` and `Use` 
     
-    
+    <p align="center">
     <img src="images/4.png" width="512">
+    <p/>
 
 5. Look at the list below for printers available in COM1 and copy the printer URL that you want to use 
 6. To complete the setup, choose a document to print and it will prompt you for your NUS Account details: 
