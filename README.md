@@ -6,9 +6,9 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
 1. `cmd + spacebar` search for **Printers & Scanners**. 
 2. Add a new printer. 
 
-
-<img src="images/1.png" width="512" align="center">
-
+<p align="center">
+<img src="images/1.png" width="512">
+<p/>
 
 3. You might need to add the **Advanced** option if you do not see it. To do so:  
     1. Right click the top toolbar 
