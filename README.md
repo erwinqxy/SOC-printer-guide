@@ -30,7 +30,7 @@ As we have to change our NUSNET password every now and then, it will cause a pro
 
 
 ## Method 2: Using SUNFIRE 
-1. Login to sunfire. ssh <account-name>@sunfire.comp.nus.edu.sg 
+1. Login to sunfire. `ssh <account-name>@sunfire.comp.nus.edu.sg`
 2. Transfer the file from your directory to Sunfire. `scp targetFile.pdf <account-name>6@sunfire.comp.nus.edu.sg:/home/e/<account-name/`
 3. Convert PDF to PS file using the command `pdftops targetFile.pdf`. Note it will convert pdf to ps. 
 4. Print command. `lpr -P <printerName> targetFile.ps` [pstsb, pstsb, pstsc]
