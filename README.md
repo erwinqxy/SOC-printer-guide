@@ -4,11 +4,26 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
 ## Method 1: Using MAC OS 
 
 1. `cmd + spacebar` search for **Printers & Scanners**. 
-2. Add a new printer. ![img1](images/1.png)
+2. Add a new printer. 
+
+
+<img src="images/1.png" width="200">
+
+
 3. You might need to add the **Advanced** option if you do not see it. To do so:  
     1. Right click the top toolbar 
-    2. Click customised toolbar ![img2](images/2.png)
-    3. Drag the **Advanced** option into the toolbar  ![img3](images/3.png)
+    2. Click customised toolbar 
+        
+        
+    <img src="images/2.png" width="200">
+    
+    
+    4. Drag the **Advanced** option into the toolbar  
+    
+    
+    <img src="images/3.png" width="200">
+    
+    
 4. Next, click **Advanced** and follow the options for `Type` and `Use` 
     
     
