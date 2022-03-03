@@ -25,5 +25,5 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
 - smb://nts27.comp.nus.edu.sg/psc011
 
 
-### Important Note 
+## Important Note 
 As we have to change our NUSNET password every now and then, it will cause a problem to the print authentication. To troubleshoot this, simply just delete the old password in the Apple Keychain and repeat the steps mentioned above to set it up again. Look out for the printer name to identify what to delete. 
