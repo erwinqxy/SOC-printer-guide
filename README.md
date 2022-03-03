@@ -7,7 +7,7 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
 2. Add a new printer. 
 
 
-<img src="images/1.png" width="512">
+<img src="images/1.png" width="512" align="center">
 
 
 3. You might need to add the **Advanced** option if you do not see it. To do so:  
