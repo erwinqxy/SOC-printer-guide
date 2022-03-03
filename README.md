@@ -15,7 +15,7 @@ I have consolidated the methods that worked for me. Hopefully it will help you t
     - NUSSTU\eXXXXXXX
     - password
 
-### COM1 Printers
+## COM1 Printers
 #### Level 1
 - smb://nts27.comp.nus.edu.sg/psts
 - smb://nts27.comp.nus.edu.sg/pstsb
