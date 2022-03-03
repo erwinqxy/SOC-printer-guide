@@ -55,3 +55,5 @@ As we have to change our NUSNET password every now and then, it will cause a pro
 3. Convert PDF to PS file using the command `pdftops targetFile.pdf`. Note it will convert pdf to ps. 
 4. Print command. `lpr -P <printerName> targetFile.ps` [pstsb, pstsb, pstsc]
 
+### Note
+To terminate the job in the event you messed up, use `lprm -P <printer-name>`
