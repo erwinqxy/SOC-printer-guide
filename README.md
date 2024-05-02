@@ -1,4 +1,4 @@
-# SOC-printer-guide
+# NUS School of Computing (SOC) Printer Guide 
 I have consolidated the methods that worked for me. Hopefully it will help you too! 😊
 
 ## Method 1: Using MAC OS 
