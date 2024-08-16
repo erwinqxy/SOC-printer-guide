@@ -57,3 +57,4 @@ As we have to change our NUSNET password every now and then, it will cause a pro
 
 ### Note
 - To terminate the job in the event you messed up, use `lprm -P <printer-name>`
+- Full list of printers available here: https://dochub.comp.nus.edu.sg/cf/guides/printing/print-queues
